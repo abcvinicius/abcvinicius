@@ -1,6 +1,6 @@
 
 
-![abcvincius GitHub stats](https://github-readme-stats.vercel.app/api?username=abcvinicius&show_icons=true&theme=dark)[!(https://i.pinimg.com/originals/a9/a5/81/a9a5818048574f2960b3a9f796150638.gif)]()
+![abcvincius GitHub stats](https://github-readme-stats.vercel.app/api?username=abcvinicius&show_icons=true&theme=dark)[![GOKU](https://i.pinimg.com/originals/a9/a5/81/a9a5818048574f2960b3a9f796150638.gif)]()
 
 ---
 
