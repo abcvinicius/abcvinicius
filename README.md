@@ -6,7 +6,7 @@
 </div>
 
 
- ![GOKU](https://i.pinimg.com/originals/23/b8/cc/23b8ccd4d62a74024e383248389a478b.gif);
+ ![GOKU](https://i.pinimg.com/originals/23/b8/cc/23b8ccd4d62a74024e383248389a478b.gif)
 
 ---
 
