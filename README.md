@@ -1,8 +1,5 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:9796f0,100:fbc7d4&height=210&section=header&text=Vinicius%20Medeiros&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=30&desc=Dev%20Front%20End&descAlignY=50">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:9796f0,100:fbc7d4&height=210&section=header&text=Vinicius%20Medeiros&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=30&desc=Dev%20Back%20End&descAlignY=50">
 
-  
-
-  
   <div style="display: inline_block"><br>
   <img align="center" alt="Logo Gabi HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original-wordmark.svg">
   <img align="center" alt="Logo Gabi CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original-wordmark.svg">
