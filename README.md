@@ -7,11 +7,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abcvinicius&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abcvinicius&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
----
-  <p align="center">
-    ## Conhecimentos 
-  </p>
+--
  
+  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=Red)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
