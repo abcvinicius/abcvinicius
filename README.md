@@ -5,6 +5,10 @@
 
 
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=abcvinicius&bg_color=0d1117&color=ADADAD&line=690101&point=C70039&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+  
+ 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=abcvinicius&show_icons=true&count_private=true&hide_border=true&title_color=c9d1d9&icon_color=690101&text_color=c9d1d9&bg_color=0d1117" alt="Vinícius Medeiros github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abcvinicius&layout=compact&hide_border=true&title_color=c9d1d9&text_color=c9d1d9&bg_color=0d1117" />
@@ -12,7 +16,6 @@
 
 
 
- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=abcvinicius&bg_color=0d1117&color=ADADAD&line=690101&point=C70039&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
   
 <p align="center">
