@@ -1,30 +1,31 @@
 <a href="https://abcvinicius.github.io/portifolio-abcvinicius/">
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=70:CA2115,1300:fbc7d4&height=150&section=header&animation=fadeIn&descAlignY=50">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=100:540101,1300:fbc7d4&height=120&section=header&animation=fadeIn&descAlignY=50">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=CA2115&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Vinícius+Medeiros;I'm+18+years+old;I'm+from+Brazil;I+Graduated+Computer+Science;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
- </br> 
- 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=abcvinicius&show_icons=true&count_private=true&hide_border=true&title_color=c9d1d9&icon_color=DC2215&text_color=c9d1d9&bg_color=0d1117" alt="Vinícius Medeiros github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abcvinicius&layout=compact&hide_border=true&title_color=c9d1d9&text_color=c9d1d9&bg_color=0d1117" />
-</div>
 
-</br>
   
+
+  
+
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=abcvinicius&bg_color=0d1117&color=C70039&line=460101&point=B50000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+  
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abcvinicius&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=abcvinicius&theme=dark&row=3&no-bg=true&column=6&margin-w=20&margin-h=15" />
 </p>
-  
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=abcvinicius&bg_color=0d1117&color=CA2115&line=690101&point=C70039&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-  
-
-
-
-
+ 
+ <div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=abcvinicius&show_icons=true&count_private=true&hide_border=true&title_color=B50000&icon_color=460101&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abcvinicius&layout=compact&hide_border=true&title_color=B50000&text_color=fff&bg_color=0d1117" />
+</div>
+ 
+ 
+ 
  ## My Skills:
   
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=Red)
