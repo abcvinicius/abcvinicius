@@ -1,8 +1,21 @@
 <a href="https://abcvinicius.github.io/portifolio-abcvinicius/">
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=50:CA2115,1000:fbc7d4&height=210&section=header&text=Vinicius%20Medeiros&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=30&desc=Dev%20Full%20Stack&descAlignY=50">
 
-![My stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=abcvinicius&count_private=true&show_icons=true&theme=dracula)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Vinícius+Medeiros;I'm+18+years+old;I'm+from+Brazil;I+Graduated+Computer+Science;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=abcvinicius&bg_color=0d1117&color=b13583&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=abcvinicius&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
+
+
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=abcvinicius&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Vinícius Medeiros github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abcvinicius&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
+</div>
 ---
   
  ## Meus Conhecimentos
