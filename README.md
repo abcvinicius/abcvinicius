@@ -19,14 +19,15 @@
   </a>
 </p>
 
-
- 
- <div align="center">
-   <a href="https://abcvinicius.github.io/portifolio-abcvinicius/">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=abcvinicius&show_icons=true&count_private=true&hide_border=true&title_color=B50000&icon_color=460101&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abcvinicius&layout=compact&hide_border=true&title_color=B50000&text_color=fff&bg_color=0d1117" />
-   </a>
+  
+  
+<div align="center">  
+  <a href="https://abcvinicius.github.io/portifolio-abcvinicius/">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=abcvinicius&show_icons=true&count_private=true&hide_border=true&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=0d1117" alt="Vinícius Mediros Stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abcvinicius&layout=compact&hide_border=true&title_color=ff0000&text_color=ffffff&bg_color=0d1117" />
+  </a>
 </div>
+
  
  
  
