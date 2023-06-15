@@ -3,16 +3,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=CA2115&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Vinícius+Medeiros;I'm+18+years+old;I'm+from+Brazil;I+Graduated+Computer+Science;Be+Welcome!+:%29)](https://abcvinicius.github.io/portifolio-abcvinicius/)
 
-
   
-
   
-
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=abcvinicius&bg_color=0d1117&color=C70039&line=460101&point=B50000&area=true&hide_border=true)](https://abcvinicius.github.io/portifolio-abcvinicius/)
-
-  
-
+<br></br>
 <p align="center">
    <a href="https://abcvinicius.github.io/portifolio-abcvinicius/">
   <img src="https://github-profile-trophy.vercel.app/?username=abcvinicius&theme=dark&row=3&no-bg=true&column=6&margin-w=20&margin-h=15" />
