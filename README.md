@@ -1,7 +1,7 @@
 <a href="https://abcvinicius.github.io/portifolio-abcvinicius/">
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=100:540101,1300:fbc7d4&height=120&section=header&animation=fadeIn&descAlignY=50">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=CA2115&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Vinícius+Medeiros;I'm+18+years+old;I'm+from+Brazil;I+Graduated+Computer+Science;Be+Welcome!+:%29)](https://abcvinicius.github.io/portifolio-abcvinicius/)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=CA2115&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Vinícius+Medeiros;I'm+19+years+old;I'm+from+Brazil;I+Graduated+Computer+Science;Be+Welcome!+:%29)](https://abcvinicius.github.io/portifolio-abcvinicius/)
 
   
   
